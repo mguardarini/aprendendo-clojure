@@ -30,6 +30,8 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 ## **Minhas anotações:**
 
+### **Ultima anotação postada: [clique aqui para ler 24.01.2021](./anotacoes/janeiro-2021/24-01-2021.md)**
+
 Na pasta anotações você encontra o conteudo que estudei nos respectivos dias, portanto o nivel de complexidade será aumentado conforme avanço nos estudos da linguagem para facilitar a consulta vou classificar pelos meses:
 
 Dezembro 2020: 
@@ -41,5 +43,6 @@ Janeiro 2021:
 - Comecei a organizar o codigo melhor, pois aprendi como utilizar referência de importação para facilitar a organização do codigo.
 
 - O conhecimento sobre a sintaxe da linguagem de programação estava mais claro, aprendi a utilizar funções e criar minhas proprias, comecei a estudar recursividade e utilizar os argumentos como condicao para execução de uma função.
+
 
 # **Esse readme está em constante atualização.**
