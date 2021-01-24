@@ -6,31 +6,33 @@ Vou adicionar nesse repositorio todas as minhas anotações, livros e artigos re
 
 Caso você não tenha conhecimento no paradigma funcional, acredito que o primeiro passo seja se ambientar e entender um pouco sobre imutabilidade, high-order-function, funções puras e etc. Dessa forma acredito que será mais facil entender algumas decisões que existem dentro clojure, inclusive se você so teve contato com paradigma de orientação a objeto.
 
+### **Ultima anotação postada: [clique aqui para ler 24.01.2021](./anotacoes/janeiro-2021/24-01-2021.md)**
+
 ## **Conteudos:** 
 
-[Functional Programming in 40 Minutes -  Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
+### Sobre funcional: 
 
-[Podcast sobre funcional e clojure - Hipster](https://podcasts.google.com/feed/aHR0cHM6Ly9oaXBzdGVycy50ZWNoL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly9oaXBzdGVycy50ZWNoLz9wPTI0OTU?hl=pt-BR&ved=2ahUKEwip6vK0-N_tAhV6H7kGHYHoAXoQjrkEegQIBhAL&ep=6)
+- [Functional Programming in 40 Minutes -  Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 
-[Programação Funcional - Introdução Clojure - Gregorio Melo]()
+- [Podcast sobre funcional e clojure - Hipster](https://podcasts.google.com/feed/aHR0cHM6Ly9oaXBzdGVycy50ZWNoL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly9oaXBzdGVycy50ZWNoLz9wPTI0OTU?hl=pt-BR&ved=2ahUKEwip6vK0-N_tAhV6H7kGHYHoAXoQjrkEegQIBhAL&ep=6)
 
-[Living Clojure - Carin Meier]()
+### Sobre Clojure: 
 
-[Functional Programming]() 
+- [Programação Funcional - Introdução Clojure - Gregorio Melo](https://www.casadocodigo.com.br/products/livro-programacao-funcional-clojure)
 
-[Clojure for the brave and true - book](https://www.braveclojure.com/getting-started/)
+- [Living Clojure - Carin Meier](https://www.amazon.com.br/dp/B00W4DTCSW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-[Iniciando em Clojure - Gregorio Melo](https://medium.com/trainingcenter/iniciando-estudos-na-linguagem-de-programa%C3%A7%C3%A3o-clojure-d4cb3801234e)
+- [Clojure for the brave and true - book](https://www.braveclojure.com/getting-started/)
 
-[Lendo Clojure de outra forma - Gregorio Melo](https://programacaofuncional.com.br/programacao-funcional-com-clojure.pdf)
+- [Iniciando em Clojure - Gregorio Melo](https://medium.com/trainingcenter/iniciando-estudos-na-linguagem-de-programa%C3%A7%C3%A3o-clojure-d4cb3801234e)
 
-[Clojure introdução à programação funcional - Gregorio Melo - Alura](https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/)
+- [Lendo Clojure de outra forma - Gregorio Melo](https://programacaofuncional.com.br/programacao-funcional-com-clojure.pdf)
 
-[Clojure Tutorial Canal do Youtube - Derek Banas](https://www.youtube.com/watch?v=ciGyHkDuPAE)
+- [Clojure introdução à programação funcional - Gregorio Melo - Alura](https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/)
+
+- [Clojure Tutorial Canal do Youtube - Derek Banas](https://www.youtube.com/watch?v=ciGyHkDuPAE)
 
 ## **Minhas anotações:**
-
-### **Ultima anotação postada: [clique aqui para ler 24.01.2021](./anotacoes/janeiro-2021/24-01-2021.md)**
 
 Na pasta anotações você encontra o conteudo que estudei nos respectivos dias, portanto o nivel de complexidade será aumentado conforme avanço nos estudos da linguagem para facilitar a consulta vou classificar pelos meses:
 
