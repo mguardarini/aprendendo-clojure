@@ -8,9 +8,8 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 ### **Ultima anotações postadas:** 
 
-- [clique aqui para ler 24.01.2021](./anotacoes/janeiro-2021/24-01-2021.md)
+- [clique aqui para ler 30.01.2021](./anotacoes/janeiro-2021/30-01-2021.md)
 - [clique aqui para ler 25.01.2021](./anotacoes/janeiro-2021/25-01-2021.md)
-
 
 # **Conteudos:** 
 
@@ -24,7 +23,7 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 #### Videos: 
 
 - [Functional Programming in 40 Minutes -  Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
-
+- [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 
 #### Podcast: 
 
