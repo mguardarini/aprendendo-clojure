@@ -69,8 +69,10 @@ Na pasta anotações você encontra o conteudo que estudei nos respectivos dias,
 
 - Comecei a organizar o codigo melhor, pois aprendi como utilizar referência de importação para facilitar a organização do codigo.
 
-- O conhecimento sobre a sintaxe da linguagem de programação estava mais claro, aprendi a utilizar funções e criar minhas proprias, comecei a estudar recursividade e utilizar os argumentos como condicao para execução de uma função.
+- O conhecimento sobre a sintaxe da linguagem de programação está mais claro, aprendi a utilizar funções e criar minhas proprias, comecei a estudar recursividade e utilizar os argumentos como condicao para execução de uma função.
 
 - Estou começando a entender melhor como funciona coleções dentro do clojure e as funções que existem na linguagem para facilitar sua manipulação, como filter, map, group-by, recur, loop, keep e etc, além disso comecei a entender que a maior parte das funções do clojure são lazy, isto é, entenda como "executam o necessário", dessa forma fica claro que operações com uma grande quantidade de dados se tornam mais performaticas.
+
+- Comecei a entender como funciona o tratamento de exceções e a criação da estrutura de dados fila.
 
 # **Esse readme está em constante atualização.**
