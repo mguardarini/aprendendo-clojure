@@ -1,10 +1,10 @@
 # **Aprendendo Clojure.**
 
-Olá comecei a estudar clojure com o intuito de aprofundar meu conhecimento no paradigma funcional e decidi mapear aqui minha jornada nessa nova linguagem de programação. 
+Olá, comecei a estudar clojure com o intuito de aprofundar meu conhecimento no paradigma funcional e decidi mapear aqui minha jornada nessa nova linguagem de programação. 
 
 Vou adicionar nesse repositorio todas as minhas anotações, livros e artigos relacionados a essa nova quest de aprender clojure, o conteudo será disponibilizado em português e inglês. 
 
-Caso você não tenha conhecimento no paradigma funcional, acredito que o primeiro passo seja se ambientar e entender um pouco sobre imutabilidade, high-order-function, funções puras e etc. Dessa forma acredito que será mais facil entender algumas decisões que existem dentro clojure, inclusive se você so teve contato com paradigma de orientação a objeto.
+Caso você não tenha conhecimento no paradigma funcional, acredito que o primeiro passo seja se ambientar e entender um pouco sobre imutabilidade, high-order-function, funções puras e etc. Dessa forma acredito que será mais facil entender algumas decisões que existem dentro do clojure, inclusive se você so teve contato com paradigma de orientação a objeto.
 
 ### **Ultima anotações postadas:** 
 
@@ -29,7 +29,7 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 - [Podcast sobre funcional e clojure - Hipster](https://podcasts.google.com/feed/aHR0cHM6Ly9oaXBzdGVycy50ZWNoL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly9oaXBzdGVycy50ZWNoLz9wPTI0OTU?hl=pt-BR&ved=2ahUKEwip6vK0-N_tAhV6H7kGHYHoAXoQjrkEegQIBhAL&ep=6)
 
-## **Especifico sobre Clojure:** 
+## **Especifico sobre clojure:** 
 
 #### Videos: 
 
