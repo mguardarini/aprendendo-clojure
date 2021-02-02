@@ -8,8 +8,8 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 ### **Ultima anotações postadas:** 
 
-- [clique aqui para ler 30.01.2021](./anotacoes/janeiro-2021/30-01-2021.md)
-- [clique aqui para ler 25.01.2021](./anotacoes/janeiro-2021/25-01-2021.md)
+- [clique aqui para ler 31.01.2021](./anotacoes/janeiro-2021/31-01-2021.md)
+- [clique aqui para ler 30.01.2021](./anotacoes/janeiro-2021/25-01-2021.md)
 
 # **Conteudos:** 
 
