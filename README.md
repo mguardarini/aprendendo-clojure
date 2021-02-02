@@ -73,6 +73,8 @@ Na pasta anotações você encontra o conteudo que estudei nos respectivos dias,
 
 - Estou começando a entender melhor como funciona coleções dentro do clojure e as funções que existem na linguagem para facilitar sua manipulação, como filter, map, group-by, recur, loop, keep e etc, além disso comecei a entender que a maior parte das funções do clojure são lazy, isto é, entenda como "executam o necessário", dessa forma fica claro que operações com uma grande quantidade de dados se tornam mais performaticas.
 
-- Comecei a entender como funciona o tratamento de exceções e a criação da estrutura de dados fila.
+- Comecei a entender como funciona o tratamento de exceções e a criação da estrutura de dados fila, assim como lidar com dados mutaveis atraves de atoms e swap!.
+
+
 
 # **Esse readme está em constante atualização.**
