@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c1099ec-79c1-4cec-af1e-811fb5f1e144" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/common/logic.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/common/properties.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/consumer/consumer.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/producer/producer.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/stale/leiningen.core.classpath.extract-native-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anotacoes/fevereiro-2021/07-02-2021.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../anotacoes/fevereiro-2021/07-02-2021.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/libraries/Leiningen__nrepl_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/aplicacao-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/doc/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/project.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/src/aplicacao_1/core.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aplicacao-1/test/aplicacao_1/core_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/example/core_test.clj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oAECeIwSPoP9cMBfpwjCyHLjsQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="cursive.last.file.extension.C\:/Projetos/aprendendo-clojure/exemplos/kafka-example/src" value="clj" />
+    <property name="cursive.last.file.extension.C\:/Users/Perfeicao/kafka-example/src" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\aprendendo-clojure\exemplos\kafka-example\src\example\common" />
+      <recent name="C:\Projetos\aprendendo-clojure\exemplos\kafka-example\src\example\producer" />
+      <recent name="C:\Projetos\aprendendo-clojure\exemplos\kafka-example\src\example\consumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Clojure Application.example.zoerinha">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example.consumer" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="example" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="example.consumer" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example.zoerinha" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="example" />
+      <setting name="path" value="$PROJECT_DIR$/src/example/zoerinha.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/example" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-example.consumer (1)" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="example" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="kafka-example.consumer" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-example.consumer" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="example" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="kafka-example.consumer" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-example.producer" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="example" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="kafka-example.producer" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.example.zoerinha" />
+        <item itemvalue="Clojure Application.example.consumer" />
+        <item itemvalue="Clojure Application.kafka-example.consumer (1)" />
+        <item itemvalue="Clojure Application.kafka-example.consumer" />
+        <item itemvalue="Clojure Application.kafka-example.producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1099ec-79c1-4cec-af1e-811fb5f1e144" name="Default Changelist" comment="" />
+      <created>1612720868298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612720868298</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kafka_example$kafka_example_consumer__1_.ic" NAME="kafka-example.consumer (1) Coverage Results" MODIFIED="1612724474486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

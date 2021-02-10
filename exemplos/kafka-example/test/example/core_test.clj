@@ -1,6 +1,6 @@
-(ns aplicacao-1.core-test
+(ns kafka-example.core-test
   (:require [clojure.test :refer :all]
-            [aplicacao-1.core :refer :all]))
+            [kafka-example.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
