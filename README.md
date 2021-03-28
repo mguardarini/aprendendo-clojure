@@ -35,6 +35,9 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 - [Clojure introdução à programação funcional - Gregorio Melo - Alura](https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/)
 - [Clojure Tutorial Canal do Youtube - Derek Banas](https://www.youtube.com/watch?v=ciGyHkDuPAE)
+- [Components]: Clojure framework to manipulate state of application  
+    - [Github](https://github.com/stuartsierra/component) 
+    - [Youtube Video](https://www.youtube.com/watch?v=13cmHf_kt-Q)
 
 #### Livros: 
 - [Programação Funcional - Introdução Clojure - Gregorio Melo](https://www.casadocodigo.com.br/products/livro-programacao-funcional-clojure)
