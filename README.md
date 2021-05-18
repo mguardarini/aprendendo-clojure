@@ -24,10 +24,14 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 - [Functional Programming in 40 Minutes -  Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 - [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+- [From Concurrency to Parallelism](https://www.youtube.com/watch?v=ZampUP6PdQA)
+- [Leon Barrett - Clojure Parallelism Beyond Futures](https://www.youtube.com/watch?v=BzKjIk0vgzE)
+- [core async  Concurrency Without Callbacks  - Stuart Halloway](https://www.youtube.com/watch?v=BcHI3U0FuoY)
+- [Programação Funcional Parte 2 - Functors e Monads](https://soundcloud.com/lambdatres/220-programacao-funcional-parte-2-functors-e-monads)
+- [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
 
-#### Podcast: 
-
-- [Podcast sobre funcional e clojure - Hipster](https://podcasts.google.com/feed/aHR0cHM6Ly9oaXBzdGVycy50ZWNoL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly9oaXBzdGVycy50ZWNoLz9wPTI0OTU?hl=pt-BR&ved=2ahUKEwip6vK0-N_tAhV6H7kGHYHoAXoQjrkEegQIBhAL&ep=6)
+#### Artigos: 
+- [Domain-driven design in FP](https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d)
 
 ## **Especifico sobre clojure:** 
 
@@ -35,26 +39,23 @@ Caso você não tenha conhecimento no paradigma funcional, acredito que o primei
 
 - [Clojure introdução à programação funcional - Gregorio Melo - Alura](https://cursos.alura.com.br/course/clojure-introducao-a-programacao-funcional/)
 - [Clojure Tutorial Canal do Youtube - Derek Banas](https://www.youtube.com/watch?v=ciGyHkDuPAE)
+- [Podcast sobre funcional e clojure - Hipster](https://podcasts.google.com/feed/aHR0cHM6Ly9oaXBzdGVycy50ZWNoL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly9oaXBzdGVycy50ZWNoLz9wPTI0OTU?hl=pt-BR&ved=2ahUKEwip6vK0-N_tAhV6H7kGHYHoAXoQjrkEegQIBhAL&ep=6)
 - [Components]: Clojure framework to manipulate state of application  
     - [Github](https://github.com/stuartsierra/component) 
     - [Youtube Video](https://www.youtube.com/watch?v=13cmHf_kt-Q)
-
+   
 #### Livros: 
 - [Programação Funcional - Introdução Clojure - Gregorio Melo](https://www.casadocodigo.com.br/products/livro-programacao-funcional-clojure)
-
 - [Living Clojure - Carin Meier](https://www.amazon.com.br/dp/B00W4DTCSW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
 - [Clojure for the brave and true - book](https://www.braveclojure.com/getting-started/)
 
 #### Artigos: 
 
 - [Iniciando em Clojure - Gregorio Melo](https://medium.com/trainingcenter/iniciando-estudos-na-linguagem-de-programa%C3%A7%C3%A3o-clojure-d4cb3801234e)
-
 - [Lendo Clojure de outra forma - Gregorio Melo](https://programacaofuncional.com.br/programacao-funcional-com-clojure.pdf)
-
 - [Encontrei esse conteudo em um github, acredito que tenha relação com a universidade de helsinque na finlandia](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
-
 - [Clojure: Entendendo (Infinite) Lazy Sequences - Antonio Gabriel Pereira de Andrade](https://medium.com/@antonio.gabriel/clojure-entendendo-infinite-lazy-sequences-2fd87275e048)
+- [Asynchronous Clojure](https://medium.com/swlh/asynchronous-clojure-a59fa0f9bda0)
 
 #### Bibliotecas: 
 
